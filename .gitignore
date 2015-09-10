@@ -5,3 +5,4 @@
 *.suo
 *.config
 *.user
+/src/Bitwise/bin/Debug

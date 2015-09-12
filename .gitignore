@@ -6,3 +6,6 @@
 *.config
 *.user
 /src/Bitwise/bin/Debug
+/artifacts/bin/Bitwise/Debug
+/BitwiseTest/bin/Debug
+/BitwiseTest/obj/Debug

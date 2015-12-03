@@ -4,7 +4,7 @@
   "authors": [ "BaoChau" ],
   "tags": [ "" ],
   "projectUrl": "https://github.com/st2forget/CommonLibraries/tree/master/src/SecurePassword",
-  "licenseUrl": "",
+  "licenseUrl": "https://github.com/st2forget/CommonLibraries/blob/master/LICENSE",
 
   "dependencies": {
     "System.Collections": "4.0.11-*",

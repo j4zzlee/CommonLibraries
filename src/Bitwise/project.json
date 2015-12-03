@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0-beta2-121512042015",
+  "version": "1.0.1",
   "description": "Bitwise Class Library",
   "authors": [ "BaoChau" ],
   "tags": [ "" ],
-  "projectUrl": "",
+  "projectUrl": "https://github.com/st2forget/CommonLibraries/tree/master/src/Bitwise",
   "licenseUrl": "",
 
   "dependencies": {

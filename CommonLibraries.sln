@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseTest", "BitwiseTest\
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "UUID", "src\UUID\UUID.xproj", "{D15E4BF7-635C-42F2-BAB6-143B7293FECE}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SecurePassword", "src\SecurePasswordHasher\SecurePassword.xproj", "{013B9600-5529-4B21-8DB4-4FD6BA99092F}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SecurePassword", "src\SecurePassword\SecurePassword.xproj", "{013B9600-5529-4B21-8DB4-4FD6BA99092F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

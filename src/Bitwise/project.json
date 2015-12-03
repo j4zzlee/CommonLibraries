@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-beta1-09142015",
+  "version": "1.0.0-beta2-120512042015",
   "description": "Bitwise Class Library",
   "authors": [ "BaoChau" ],
   "tags": [ "" ],
@@ -15,11 +15,20 @@
   },
 
   "frameworks": {
+    "dnx451": { },
     "dnx46": {
       "dependencies": {
 
       }
     },
-    "dnxcore50": { }
+    "dnxcore50": {
+      "dependencies": {
+        "System.Collections": "4.0.11-*",
+        "System.Linq": "4.0.1-*",
+        "System.Threading": "4.0.11-*",
+        "System.Runtime": "4.0.21-*",
+        "Microsoft.CSharp": "4.0.1-*"
+      }
+    }
   }
 }

@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Security.Cryptography;
-using System.Threading.Tasks;
 using Microsoft.AspNet.Cryptography.KeyDerivation;
 
 namespace SecurePassword
@@ -11,16 +8,6 @@ namespace SecurePassword
     // To enable this option, right-click on the project and select the Properties menu item. In the Build tab select "Produce outputs on build".
     public class SecurePassword
     {
-        /// <summary>
-        /// Size of salt
-        /// </summary>
-        private const int SaltSize = 16;
-
-        /// <summary>
-        /// Size of hash
-        /// </summary>
-        private const int HashSize = 20;
-
         /// <summary>
         /// Creates a hash from a password
         /// </summary>

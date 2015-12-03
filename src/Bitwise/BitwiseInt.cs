@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace System.CommonLibraries.Bitwise
 {
-    public class BitwiseInt : Bitwise<int>
+    public class Bitwise : Bitwise<int>
     {
-        public BitwiseInt(int i) : base(i) { }
+        public Bitwise(int i) : base(i) { }
 
         public override IEnumerable<int> ToArray()
         {

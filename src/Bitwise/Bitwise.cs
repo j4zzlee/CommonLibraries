@@ -25,6 +25,11 @@ namespace System.CommonLibraries.Bitwise
             return (Bit & Convert.ToInt32(bit)) > 0;
         }
 
+        public virtual bool Is(T bit)
+        {
+            return Bit == Convert.ToInt32(bit);
+        }
+
         public virtual Bitwise<T> Set(T bit)
         {
             Bit = Convert.ToInt32(bit);

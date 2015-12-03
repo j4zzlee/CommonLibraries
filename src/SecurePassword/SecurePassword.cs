@@ -32,16 +32,6 @@ namespace SecurePassword
 
             return hashed;
         }
-      
-        /// <summary>
-        /// Check if hash is supported
-        /// </summary>
-        /// <param name="hashString">the hash</param>
-        /// <returns>is supported?</returns>
-        public static bool IsHashSupported(string hashString)
-        {
-            return hashString.Contains("$MYHASH$V1$");
-        }
 
         /// <summary>
         /// verify a password against a hash

@@ -5,6 +5,7 @@
 *.suo
 *.config
 *.user
+project.lock.json
 /src/Bitwise/bin/Debug
 /artifacts/bin/Bitwise/Debug
 /BitwiseTest/bin/Debug

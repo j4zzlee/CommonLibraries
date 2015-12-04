@@ -16,7 +16,7 @@
     "System.Threading": "4.0.11-*",
     "System.Runtime": "4.0.21-*",
     "Microsoft.CSharp": "4.0.1-*",
-    "Microsoft.AspNet.Cryptography.KeyDerivation": "1.0.0-*"
+    "Microsoft.AspNet.Cryptography.KeyDerivation": "1.0.0-rc1-final"
   },
 
   "frameworks": {

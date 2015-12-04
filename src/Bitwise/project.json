@@ -1,8 +1,12 @@
 {
+  "title": "Bitwise Class Library",
   "version": "1.0.3",
-  "description": "Bitwise Class Library",
+  "description": "Bitwise Class Library is used for handling bitwise operators in an easier way, human readable",
+  "summary": "",
   "authors": [ "BaoChau" ],
-  "tags": [ "" ],
+  "tags": [ "C#", "Asp.net 5" ],
+  "copyright": "BaoChau",
+  "releaseNotes": "Changed Bitwise namespace to Microsoft.AspNet.Utils",
   "projectUrl": "https://github.com/st2forget/CommonLibraries/tree/master/src/Bitwise",
   "licenseUrl": "https://github.com/st2forget/CommonLibraries/blob/master/LICENSE",
 

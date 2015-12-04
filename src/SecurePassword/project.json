@@ -1,8 +1,12 @@
 ﻿{
+  "title": "SecurePassword Class Library",
   "version": "1.0.4",
-  "description": "SecurePassword Class Library",
+  "description": "SecurePassword Class Library provides an efficient & faster way to Hash & Verify user's password",
+  "summary": "SecurePassword Class Library provides an efficient & faster way to Hash & Verify user's password",
   "authors": [ "BaoChau" ],
-  "tags": [ "" ],
+  "tags": [ "C#", "Asp.net 5" ],
+  "copyright": "BaoChau",
+  "releaseNotes": "Change namespace to Microsoft.AspNet.Security",
   "projectUrl": "https://github.com/st2forget/CommonLibraries/tree/master/src/SecurePassword",
   "licenseUrl": "https://github.com/st2forget/CommonLibraries/blob/master/LICENSE",
 

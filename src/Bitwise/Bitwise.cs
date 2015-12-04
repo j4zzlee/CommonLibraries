@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Reflection;
 
-namespace System.CommonLibraries.Bitwise
+namespace Microsoft.AspNet.Utils
 {
     public abstract class Bitwise<T> where T: struct
     {

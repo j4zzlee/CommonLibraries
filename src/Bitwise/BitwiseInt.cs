@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace System.CommonLibraries.Bitwise
+namespace Microsoft.AspNet.Utils
 {
     public class Bitwise : Bitwise<int>
     {

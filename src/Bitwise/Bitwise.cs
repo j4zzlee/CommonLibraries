@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Reflection;
 
 namespace Microsoft.AspNet.Utils
@@ -55,7 +56,7 @@ namespace Microsoft.AspNet.Utils
             {
                 if ((i & Bit) <= 0) continue;
 
-                yield return (T)Enum.ToObject(typeof(T), i); ;
+                yield return (T)Enum.ToObject(typeof(T), i);
             }
         }
     }

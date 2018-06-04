@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Gia, Le Huu Hoang &lt;hoanggia.lh@gmail.com&gt;</Authors>
+    <PackageProjectUrl>https://github.com/st2forget/CommonLibraries</PackageProjectUrl>
+    <Company>BCSolutions</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>BCSolutions.Commands</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCSolutions.ConsoleExtensions" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Gia, Le Huu Hoang &lt;hoanggia.lh@gmail.com&gt;</Authors>
+    <Company>BCSolutions</Company>
+    <PackageProjectUrl>https://github.com/st2forget/CommonLibraries</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/st2forget/CommonLibraries</RepositoryUrl>
+    <PackageId>BCSolutions.StringExtensions</PackageId>
+  </PropertyGroup>
+
+</Project>

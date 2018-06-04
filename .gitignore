@@ -10,3 +10,7 @@ project.lock.json
 /artifacts/bin/Bitwise/Debug
 /BitwiseTest/bin/Debug
 /BitwiseTest/obj/Debug
+UpgradeLog.htm
+.vs
+obj/
+bin/

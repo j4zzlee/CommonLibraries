@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Gia, Le Huu Hoang &lt;hoanggia.lh@gmail.com&gt;</Authors>
+    <Company>BCSolutions</Company>
+    <Product>Common Libraries</Product>
+    <Description>Common Libraries including:
+- Bitwise
+- SecurePassword
+- DateTime - Unix timestamp convert</Description>
+    <PackageProjectUrl>https://github.com/st2forget/CommonLibraries</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/st2forget/CommonLibraries</RepositoryUrl>
+    <PackageTags>bitwise</PackageTags>
+    <PackageId>BCSolutions.Bitwise</PackageId>
+  </PropertyGroup>
+
+</Project>

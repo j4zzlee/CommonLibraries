@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace Microsoft.AspNet.Utils
+namespace Bitwise
 {
     public abstract class Bitwise<T> where T: struct
     {

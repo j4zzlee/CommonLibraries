@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Microsoft.AspNet.Utils
+namespace Bitwise
 {
     public class Bitwise : Bitwise<int>
     {

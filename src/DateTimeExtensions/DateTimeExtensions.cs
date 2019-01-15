@@ -16,7 +16,8 @@ namespace DateTimeExtensions
         /// <returns></returns>
         public static long ToUnixTimestamp(this DateTime dateTime)
         {
-            return DateTimeOffset.Now.ToUnixTimeSeconds();
+            DateTimeOffset d = dateTime;
+            return d.ToUnixTimeSeconds();
         }
 
         /// <summary>
